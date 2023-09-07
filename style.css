@@ -177,6 +177,13 @@ p.welcome {
     }
 }
 
+@media (max-height: 770px) {
+    .photo {
+        width: 300px;
+        height: 300px;
+    }
+}
+    
 @media (max-width: 1000px) {
     .content {
         display: grid;
