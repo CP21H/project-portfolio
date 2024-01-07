@@ -452,6 +452,7 @@ button.tools {
     width: 250px;
     height: 30px;
     border-radius: 5px;
+    margin-top: 25px;
 }
 
 .project-header {
